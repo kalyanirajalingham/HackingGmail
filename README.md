@@ -1,6 +1,8 @@
 # HackingGmail
 Hacking Gmail using Python
 
+First turn on the "LESS secure apps" option.
+
 To use:
 
 python3 hackinggmail.py [email] [password file]
